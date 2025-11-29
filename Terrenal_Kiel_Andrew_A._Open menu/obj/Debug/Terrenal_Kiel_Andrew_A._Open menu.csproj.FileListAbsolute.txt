@@ -1,0 +1,5 @@
+C:\Users\LAB2-PC032\Desktop\nicolecrud\Terrenal_Kiel_Andrew_A._Open menu\obj\Debug\Terrenal_Kiel_Andrew_A._Open menu.csproj.AssemblyReference.cache
+C:\Users\LAB2-PC032\Desktop\nicolecrud\Terrenal_Kiel_Andrew_A._Open menu\obj\Debug\Terrenal_Kiel_Andrew_A._Open_menu.Form1.resources
+C:\Users\LAB2-PC032\Desktop\nicolecrud\Terrenal_Kiel_Andrew_A._Open menu\obj\Debug\Terrenal_Kiel_Andrew_A._Open_menu.Properties.Resources.resources
+C:\Users\LAB2-PC032\Desktop\nicolecrud\Terrenal_Kiel_Andrew_A._Open menu\obj\Debug\Terrenal_Kiel_Andrew_A._Open menu.csproj.GenerateResource.cache
+C:\Users\LAB2-PC032\Desktop\nicolecrud\Terrenal_Kiel_Andrew_A._Open menu\obj\Debug\Terrenal_Kiel_Andrew_A._Open menu.csproj.CoreCompileInputs.cache
